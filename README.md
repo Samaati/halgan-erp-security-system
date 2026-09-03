@@ -64,3 +64,42 @@ src/
 ├── types/
 ├── constants/
 └── middleware.ts
+
+
+**isla markiiba kadib:**
+
+```text
+└── middleware.ts
+
+``````````````````````````````````````````````````````
+
+## Platform Screenshots
+
+The following screenshots demonstrate the current enterprise application interface and key management modules.
+
+### Main Dashboard
+![Main Dashboard](screenshots/Dashpoard%20ka.png)
+
+### Executive Dashboard
+![Executive Dashboard](screenshots/Excutive%20Dashpoard.png)
+
+### Executive Analytics
+![Executive Analytics](screenshots/Excutive%20Dashpoard%202.png)
+
+### Executive Operations & Analytics
+![Executive Operations](screenshots/Excutive%20Dashpoard%203.png)
+
+### Finance Management
+![Finance Dashboard](screenshots/Financial%20reports.png)
+
+### Operational Reporting
+![Operational Reports](screenshots/Operational%20Report.png)
+
+### Payroll Management
+![Payroll Dashboard](screenshots/Payroll%20Reports.png)
+
+### Reports Dashboard
+![Reports Dashboard](screenshots/Reports.png)
+
+### Role-Based Access Control
+![Role Management](screenshots/Roles%20page.png)
